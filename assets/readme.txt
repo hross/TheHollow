@@ -1,0 +1,1 @@
+Custom assets can be dumped here via the mod.
