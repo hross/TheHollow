@@ -1,0 +1,21 @@
+﻿# a list of classes we only want to be made public with no other modifications
+
+IDescription
+ISprite
+Sprite
+ICharacterClass
+ITarget
+CharacterClassDescription
+CheckBox
+Panel
+DebugLog.ContentPanel
+Button
+ButtonCore
+Screen
+Panel
+Dialog
+CommonDialog
+ConfirmDialog
+OptionsDialog
+IUIContext
+Page

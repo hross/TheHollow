@@ -1,0 +1,6 @@
+﻿Animation {
+	Name: select_christie
+	SpriteLibrary: game_sprites.csv
+	FrameName: select_christie
+	IsDirectional: false
+}

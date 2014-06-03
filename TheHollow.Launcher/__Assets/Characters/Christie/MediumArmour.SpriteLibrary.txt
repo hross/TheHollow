@@ -1,0 +1,6022 @@
+﻿{
+  "cast_e_0000": {
+    "Name": "cast_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1060,
+      "Y": 431,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0001": {
+    "Name": "cast_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0002": {
+    "Name": "cast_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0003": {
+    "Name": "cast_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0004": {
+    "Name": "cast_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0005": {
+    "Name": "cast_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0006": {
+    "Name": "cast_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0007": {
+    "Name": "cast_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_e_0008": {
+    "Name": "cast_e_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0000": {
+    "Name": "cast_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1936,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0001": {
+    "Name": "cast_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1839,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0002": {
+    "Name": "cast_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1543,
+      "Y": 349,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0003": {
+    "Name": "cast_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1839,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0004": {
+    "Name": "cast_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1543,
+      "Y": 349,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0005": {
+    "Name": "cast_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1839,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0006": {
+    "Name": "cast_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1543,
+      "Y": 349,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0007": {
+    "Name": "cast_n_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1839,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_n_0008": {
+    "Name": "cast_n_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1543,
+      "Y": 349,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0000": {
+    "Name": "cast_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1446,
+      "Y": 349,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0001": {
+    "Name": "cast_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1645,
+      "Y": 281,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0002": {
+    "Name": "cast_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1742,
+      "Y": 196,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0003": {
+    "Name": "cast_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0004": {
+    "Name": "cast_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1841,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0005": {
+    "Name": "cast_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0006": {
+    "Name": "cast_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1841,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0007": {
+    "Name": "cast_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_s_0008": {
+    "Name": "cast_s_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1841,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0000": {
+    "Name": "death_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1108,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0001": {
+    "Name": "death_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1750,
+      "Y": 939,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0002": {
+    "Name": "death_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1766,
+      "Y": 475,
+      "Width": 83,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0003": {
+    "Name": "death_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 834,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0004": {
+    "Name": "death_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1284,
+      "Width": 77,
+      "Height": 74
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0005": {
+    "Name": "death_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 923,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0006": {
+    "Name": "death_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 406,
+      "Width": 121,
+      "Height": 59
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0007": {
+    "Name": "death_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 649,
+      "Width": 125,
+      "Height": 52
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_e_0008": {
+    "Name": "death_e_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 356,
+      "Width": 125,
+      "Height": 48
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0000": {
+    "Name": "focusproject_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1645,
+      "Y": 184,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0001": {
+    "Name": "focusproject_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0002": {
+    "Name": "focusproject_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0003": {
+    "Name": "focusproject_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0004": {
+    "Name": "focusproject_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0005": {
+    "Name": "focusproject_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0006": {
+    "Name": "focusproject_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0007": {
+    "Name": "focusproject_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_e_0008": {
+    "Name": "focusproject_e_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0000": {
+    "Name": "focusproject_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 379,
+      "Y": 374,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0001": {
+    "Name": "focusproject_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 311,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0002": {
+    "Name": "focusproject_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 887,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0003": {
+    "Name": "focusproject_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 311,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0004": {
+    "Name": "focusproject_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 887,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0005": {
+    "Name": "focusproject_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 311,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0006": {
+    "Name": "focusproject_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 887,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0007": {
+    "Name": "focusproject_n_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 311,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_n_0008": {
+    "Name": "focusproject_n_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 887,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0000": {
+    "Name": "focusproject_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1841,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0001": {
+    "Name": "focusproject_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0002": {
+    "Name": "focusproject_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 432,
+      "Y": 592,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0003": {
+    "Name": "focusproject_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0004": {
+    "Name": "focusproject_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 432,
+      "Y": 592,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0005": {
+    "Name": "focusproject_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0006": {
+    "Name": "focusproject_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 432,
+      "Y": 592,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0007": {
+    "Name": "focusproject_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_s_0008": {
+    "Name": "focusproject_s_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 432,
+      "Y": 592,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_e_0000": {
+    "Name": "idle_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 689,
+      "Y": 899,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_e_0001": {
+    "Name": "idle_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 689,
+      "Y": 899,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_e_0002": {
+    "Name": "idle_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 786,
+      "Y": 887,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_e_0003": {
+    "Name": "idle_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 786,
+      "Y": 887,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_n_0000": {
+    "Name": "idle_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1872,
+      "Y": 923,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_n_0001": {
+    "Name": "idle_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1872,
+      "Y": 923,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_n_0002": {
+    "Name": "idle_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1791,
+      "Y": 845,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_n_0003": {
+    "Name": "idle_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1791,
+      "Y": 845,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_s_0000": {
+    "Name": "idle_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1710,
+      "Y": 760,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_s_0001": {
+    "Name": "idle_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1710,
+      "Y": 760,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_s_0002": {
+    "Name": "idle_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1629,
+      "Y": 753,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_s_0003": {
+    "Name": "idle_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1629,
+      "Y": 753,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0000": {
+    "Name": "is_hit_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1590,
+      "Y": 1124,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0001": {
+    "Name": "is_hit_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1851,
+      "Y": 563,
+      "Width": 81,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0002": {
+    "Name": "is_hit_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1679,
+      "Y": 472,
+      "Width": 85,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0003": {
+    "Name": "is_hit_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1742,
+      "Y": 293,
+      "Width": 91,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0004": {
+    "Name": "is_hit_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 802,
+      "Y": 536,
+      "Width": 95,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_e_0005": {
+    "Name": "is_hit_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 932,
+      "Y": 501,
+      "Width": 95,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0000": {
+    "Name": "is_hit_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1748,
+      "Y": 1031,
+      "Width": 77,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0001": {
+    "Name": "is_hit_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1198,
+      "Width": 77,
+      "Height": 82
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0002": {
+    "Name": "is_hit_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1029,
+      "Y": 916,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0003": {
+    "Name": "is_hit_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 326,
+      "Y": 1198,
+      "Width": 78,
+      "Height": 77
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0004": {
+    "Name": "is_hit_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 1253,
+      "Width": 78,
+      "Height": 73
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_n_0005": {
+    "Name": "is_hit_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 164,
+      "Y": 1235,
+      "Width": 79,
+      "Height": 69
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_s_0000": {
+    "Name": "is_hit_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1511,
+      "Y": 939,
+      "Width": 77,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_s_0001": {
+    "Name": "is_hit_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1374,
+      "Width": 77,
+      "Height": 96
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_s_0002": {
+    "Name": "is_hit_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1372,
+      "Width": 77,
+      "Height": 101
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_s_0003": {
+    "Name": "is_hit_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 164,
+      "Y": 1306,
+      "Width": 77,
+      "Height": 103
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_s_0004": {
+    "Name": "is_hit_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 506,
+      "Y": 485,
+      "Width": 77,
+      "Height": 105
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0000": {
+    "Name": "project_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1645,
+      "Y": 184,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0001": {
+    "Name": "project_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0002": {
+    "Name": "project_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0003": {
+    "Name": "project_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0004": {
+    "Name": "project_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0005": {
+    "Name": "project_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0006": {
+    "Name": "project_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0007": {
+    "Name": "project_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_e_0008": {
+    "Name": "project_e_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0000": {
+    "Name": "project_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 379,
+      "Y": 374,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0001": {
+    "Name": "project_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 760,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0002": {
+    "Name": "project_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 187,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0003": {
+    "Name": "project_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 760,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0004": {
+    "Name": "project_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 187,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0005": {
+    "Name": "project_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 760,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0006": {
+    "Name": "project_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 187,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0007": {
+    "Name": "project_n_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 760,
+      "Y": 229,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_n_0008": {
+    "Name": "project_n_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 187,
+      "Width": 125,
+      "Height": 125
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0000": {
+    "Name": "project_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1841,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0001": {
+    "Name": "project_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 835,
+      "Y": 439,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0002": {
+    "Name": "project_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 963,
+      "Y": 404,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0003": {
+    "Name": "project_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 835,
+      "Y": 439,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0004": {
+    "Name": "project_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 963,
+      "Y": 404,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0005": {
+    "Name": "project_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 835,
+      "Y": 439,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0006": {
+    "Name": "project_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 963,
+      "Y": 404,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0007": {
+    "Name": "project_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 835,
+      "Y": 439,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_s_0008": {
+    "Name": "project_s_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 963,
+      "Y": 404,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_e_0000": {
+    "Name": "punch_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1153,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_e_0001": {
+    "Name": "punch_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 917,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_e_0002": {
+    "Name": "punch_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1588,
+      "Y": 847,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_e_0003": {
+    "Name": "punch_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1014,
+      "Y": 312,
+      "Width": 109,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_e_0004": {
+    "Name": "punch_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 917,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_n_0000": {
+    "Name": "punch_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 164,
+      "Y": 1152,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_n_0001": {
+    "Name": "punch_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1029,
+      "Y": 834,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_n_0002": {
+    "Name": "punch_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 164,
+      "Y": 1063,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_n_0003": {
+    "Name": "punch_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1507,
+      "Y": 847,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_n_0004": {
+    "Name": "punch_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1029,
+      "Y": 834,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_s_0000": {
+    "Name": "punch_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1067,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_s_0001": {
+    "Name": "punch_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 326,
+      "Y": 1033,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_s_0002": {
+    "Name": "punch_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 326,
+      "Y": 1121,
+      "Width": 79,
+      "Height": 75
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_s_0003": {
+    "Name": "punch_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1307,
+      "Width": 79,
+      "Height": 65
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_s_0004": {
+    "Name": "punch_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 326,
+      "Y": 1033,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_e_0000": {
+    "Name": "shoot_pistol_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1197,
+      "Width": 77,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_e_0001": {
+    "Name": "shoot_pistol_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 834,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_e_0002": {
+    "Name": "shoot_pistol_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1748,
+      "Y": 1123,
+      "Width": 77,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_n_0000": {
+    "Name": "shoot_pistol_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1669,
+      "Y": 1039,
+      "Width": 77,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_n_0001": {
+    "Name": "shoot_pistol_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1345,
+      "Y": 825,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_n_0002": {
+    "Name": "shoot_pistol_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1264,
+      "Y": 767,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_s_0000": {
+    "Name": "shoot_pistol_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1806,
+      "Y": 651,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_s_0001": {
+    "Name": "shoot_pistol_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1725,
+      "Y": 566,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_s_0002": {
+    "Name": "shoot_pistol_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1644,
+      "Y": 559,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_e_0000": {
+    "Name": "shoot_rifle_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 594,
+      "Y": 221,
+      "Width": 164,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_e_0001": {
+    "Name": "shoot_rifle_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 237,
+      "Y": 229,
+      "Width": 200,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_e_0002": {
+    "Name": "shoot_rifle_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 2,
+      "Width": 194,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_e_0003": {
+    "Name": "shoot_rifle_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1640,
+      "Y": 378,
+      "Width": 88,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_n_0000": {
+    "Name": "shoot_rifle_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1563,
+      "Y": 559,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_n_0001": {
+    "Name": "shoot_rifle_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 976,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_n_0002": {
+    "Name": "shoot_rifle_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 972,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_s_0000": {
+    "Name": "shoot_rifle_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 180,
+      "Y": 881,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_s_0001": {
+    "Name": "shoot_rifle_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 885,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_s_0002": {
+    "Name": "shoot_rifle_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 99,
+      "Y": 881,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_s_0003": {
+    "Name": "shoot_rifle_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1831,
+      "Y": 1017,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_e_0000": {
+    "Name": "shoot_shotgun_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 229,
+      "Width": 233,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_e_0001": {
+    "Name": "shoot_shotgun_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 596,
+      "Y": 2,
+      "Width": 291,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_e_0002": {
+    "Name": "shoot_shotgun_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1022,
+      "Y": 132,
+      "Width": 101,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_e_0003": {
+    "Name": "shoot_shotgun_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 363,
+      "Y": 501,
+      "Width": 105,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_e_0004": {
+    "Name": "shoot_shotgun_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 138,
+      "Y": 411,
+      "Width": 96,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_n_0000": {
+    "Name": "shoot_shotgun_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 319,
+      "Y": 856,
+      "Width": 79,
+      "Height": 140
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_n_0001": {
+    "Name": "shoot_shotgun_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 426,
+      "Y": 784,
+      "Width": 79,
+      "Height": 150
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_n_0002": {
+    "Name": "shoot_shotgun_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1029,
+      "Y": 528,
+      "Width": 80,
+      "Height": 96
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_n_0003": {
+    "Name": "shoot_shotgun_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 786,
+      "Y": 790,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_n_0004": {
+    "Name": "shoot_shotgun_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 507,
+      "Y": 869,
+      "Width": 79,
+      "Height": 97
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_s_0000": {
+    "Name": "shoot_shotgun_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 527,
+      "Y": 705,
+      "Width": 79,
+      "Height": 162
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_s_0001": {
+    "Name": "shoot_shotgun_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 778,
+      "Y": 623,
+      "Width": 79,
+      "Height": 164
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_s_0002": {
+    "Name": "shoot_shotgun_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1934,
+      "Y": 563,
+      "Width": 80,
+      "Height": 164
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_s_0003": {
+    "Name": "shoot_shotgun_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 624,
+      "Y": 654,
+      "Width": 79,
+      "Height": 163
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_s_0004": {
+    "Name": "shoot_shotgun_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1157,
+      "Y": 478,
+      "Width": 80,
+      "Height": 162
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_e_0000": {
+    "Name": "shoot_spear_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 299,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_e_0001": {
+    "Name": "shoot_spear_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_e_0002": {
+    "Name": "shoot_spear_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_n_0000": {
+    "Name": "shoot_spear_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1548,
+      "Y": 167,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_n_0001": {
+    "Name": "shoot_spear_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1451,
+      "Y": 167,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_n_0002": {
+    "Name": "shoot_spear_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1451,
+      "Y": 167,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_s_0000": {
+    "Name": "shoot_spear_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1647,
+      "Y": 2,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_s_0001": {
+    "Name": "shoot_spear_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 703,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_s_0002": {
+    "Name": "shoot_spear_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 703,
+      "Width": 95,
+      "Height": 180
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 69",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_e_0000": {
+    "Name": "spear_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 238,
+      "Y": 99,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_e_0001": {
+    "Name": "spear_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 99,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_e_0002": {
+    "Name": "spear_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 596,
+      "Y": 91,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_e_0003": {
+    "Name": "spear_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 889,
+      "Y": 2,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_n_0000": {
+    "Name": "spear_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1315,
+      "Y": 99,
+      "Width": 134,
+      "Height": 163
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_n_0001": {
+    "Name": "spear_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1511,
+      "Y": 2,
+      "Width": 134,
+      "Height": 163
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_n_0002": {
+    "Name": "spear_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 484,
+      "Width": 134,
+      "Height": 163
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_n_0003": {
+    "Name": "spear_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 319,
+      "Width": 134,
+      "Height": 163
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_s_0000": {
+    "Name": "spear_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 129,
+      "Y": 691,
+      "Width": 95,
+      "Height": 188
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 40",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_s_0001": {
+    "Name": "spear_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 235,
+      "Y": 596,
+      "Width": 95,
+      "Height": 188
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 40",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_s_0002": {
+    "Name": "spear_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 335,
+      "Y": 591,
+      "Width": 95,
+      "Height": 188
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 40",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_s_0003": {
+    "Name": "spear_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 138,
+      "Y": 501,
+      "Width": 95,
+      "Height": 188
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 40",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0000": {
+    "Name": "swing_blade_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1156,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0001": {
+    "Name": "swing_blade_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1110,
+      "Y": 860,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0002": {
+    "Name": "swing_blade_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 998,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0003": {
+    "Name": "swing_blade_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 236,
+      "Y": 414,
+      "Width": 125,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0004": {
+    "Name": "swing_blade_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 236,
+      "Y": 414,
+      "Width": 125,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0005": {
+    "Name": "swing_blade_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 138,
+      "Y": 319,
+      "Width": 97,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0006": {
+    "Name": "swing_blade_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1110,
+      "Y": 860,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_e_0007": {
+    "Name": "swing_blade_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 164,
+      "Y": 972,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0000": {
+    "Name": "swing_blade_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1748,
+      "Y": 1212,
+      "Width": 77,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0001": {
+    "Name": "swing_blade_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 407,
+      "Y": 1134,
+      "Width": 78,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0002": {
+    "Name": "swing_blade_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1109,
+      "Width": 77,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0003": {
+    "Name": "swing_blade_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1511,
+      "Y": 1033,
+      "Width": 77,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0004": {
+    "Name": "swing_blade_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1511,
+      "Y": 1033,
+      "Width": 77,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0005": {
+    "Name": "swing_blade_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1590,
+      "Y": 1032,
+      "Width": 77,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_n_0006": {
+    "Name": "swing_blade_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 407,
+      "Y": 1134,
+      "Width": 78,
+      "Height": 80
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0000": {
+    "Name": "swing_blade_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1669,
+      "Y": 1130,
+      "Width": 77,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0001": {
+    "Name": "swing_blade_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 1089,
+      "Width": 79,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0002": {
+    "Name": "swing_blade_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 1176,
+      "Width": 79,
+      "Height": 75
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0003": {
+    "Name": "swing_blade_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1304,
+      "Width": 79,
+      "Height": 66
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0004": {
+    "Name": "swing_blade_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1239,
+      "Width": 79,
+      "Height": 66
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0005": {
+    "Name": "swing_blade_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1236,
+      "Width": 79,
+      "Height": 66
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0006": {
+    "Name": "swing_blade_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 1089,
+      "Width": 79,
+      "Height": 85
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_s_0007": {
+    "Name": "swing_blade_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1305,
+      "Y": 672,
+      "Width": 79,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_e_0000": {
+    "Name": "swing_club_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 750,
+      "Y": 1056,
+      "Width": 78,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_e_0001": {
+    "Name": "swing_club_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 488,
+      "Y": 1092,
+      "Width": 78,
+      "Height": 83
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_e_0002": {
+    "Name": "swing_club_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 235,
+      "Y": 506,
+      "Width": 98,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_e_0003": {
+    "Name": "swing_club_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 474,
+      "Y": 180,
+      "Width": 118,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_e_0004": {
+    "Name": "swing_club_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 332,
+      "Y": 781,
+      "Width": 92,
+      "Height": 73
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_n_0000": {
+    "Name": "swing_club_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 400,
+      "Y": 936,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_n_0001": {
+    "Name": "swing_club_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1386,
+      "Y": 731,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_n_0002": {
+    "Name": "swing_club_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 789,
+      "Width": 79,
+      "Height": 108
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_n_0003": {
+    "Name": "swing_club_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1191,
+      "Y": 860,
+      "Width": 79,
+      "Height": 76
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_n_0004": {
+    "Name": "swing_club_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1953,
+      "Y": 923,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_s_0000": {
+    "Name": "swing_club_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1472,
+      "Width": 77,
+      "Height": 94
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_s_0001": {
+    "Name": "swing_club_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1590,
+      "Y": 939,
+      "Width": 77,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_s_0002": {
+    "Name": "swing_club_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 998,
+      "Width": 78,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_s_0003": {
+    "Name": "swing_club_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1282,
+      "Width": 77,
+      "Height": 78
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_s_0004": {
+    "Name": "swing_club_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 529,
+      "Y": 610,
+      "Width": 93,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0000": {
+    "Name": "swing_eblade_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1352,
+      "Y": 918,
+      "Width": 78,
+      "Height": 94
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0001": {
+    "Name": "swing_eblade_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1022,
+      "Y": 221,
+      "Width": 100,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0002": {
+    "Name": "swing_eblade_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 237,
+      "Y": 317,
+      "Width": 140,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0003": {
+    "Name": "swing_eblade_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 839,
+      "Y": 356,
+      "Width": 122,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0004": {
+    "Name": "swing_eblade_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 474,
+      "Y": 99,
+      "Width": 120,
+      "Height": 79
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_e_0005": {
+    "Name": "swing_eblade_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 899,
+      "Y": 588,
+      "Width": 80,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0000": {
+    "Name": "swing_eblade_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 506,
+      "Y": 374,
+      "Width": 77,
+      "Height": 109
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0001": {
+    "Name": "swing_eblade_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 851,
+      "Y": 1004,
+      "Width": 78,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0002": {
+    "Name": "swing_eblade_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 859,
+      "Y": 679,
+      "Width": 79,
+      "Height": 109
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0003": {
+    "Name": "swing_eblade_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1062,
+      "Y": 626,
+      "Width": 79,
+      "Height": 109
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0004": {
+    "Name": "swing_eblade_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 407,
+      "Y": 1056,
+      "Width": 79,
+      "Height": 76
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_n_0005": {
+    "Name": "swing_eblade_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1426,
+      "Y": 825,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0000": {
+    "Name": "swing_eblade_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1968,
+      "Y": 826,
+      "Width": 78,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0001": {
+    "Name": "swing_eblade_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1669,
+      "Y": 854,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0002": {
+    "Name": "swing_eblade_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1432,
+      "Y": 939,
+      "Width": 77,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0003": {
+    "Name": "swing_eblade_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1102,
+      "Y": 739,
+      "Width": 79,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0004": {
+    "Name": "swing_eblade_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 669,
+      "Y": 988,
+      "Width": 79,
+      "Height": 78
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_s_0005": {
+    "Name": "swing_eblade_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 432,
+      "Y": 689,
+      "Width": 93,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_e_0000": {
+    "Name": "swing_hammer_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 832,
+      "Y": 132,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_e_0001": {
+    "Name": "swing_hammer_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 90,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_e_0002": {
+    "Name": "swing_hammer_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1321,
+      "Y": 2,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_n_0000": {
+    "Name": "swing_hammer_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 314,
+      "Width": 95,
+      "Height": 115
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_n_0001": {
+    "Name": "swing_hammer_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1349,
+      "Y": 264,
+      "Width": 95,
+      "Height": 115
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_n_0002": {
+    "Name": "swing_hammer_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1252,
+      "Y": 264,
+      "Width": 95,
+      "Height": 115
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_s_0000": {
+    "Name": "swing_hammer_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1110,
+      "Y": 942,
+      "Width": 78,
+      "Height": 94
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_s_0001": {
+    "Name": "swing_hammer_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1191,
+      "Y": 938,
+      "Width": 78,
+      "Height": 94
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_s_0002": {
+    "Name": "swing_hammer_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1272,
+      "Y": 918,
+      "Width": 78,
+      "Height": 94
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_e_0000": {
+    "Name": "swing_sword_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1968,
+      "Y": 729,
+      "Width": 78,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_e_0001": {
+    "Name": "swing_sword_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 682,
+      "Y": 564,
+      "Width": 94,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_e_0002": {
+    "Name": "swing_sword_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 439,
+      "Y": 277,
+      "Width": 144,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_e_0003": {
+    "Name": "swing_sword_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 438,
+      "Width": 118,
+      "Height": 73
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_e_0004": {
+    "Name": "swing_sword_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1504,
+      "Y": 446,
+      "Width": 86,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_n_0000": {
+    "Name": "swing_sword_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 608,
+      "Y": 819,
+      "Width": 79,
+      "Height": 104
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_n_0001": {
+    "Name": "swing_sword_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1224,
+      "Y": 672,
+      "Width": 79,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_n_0002": {
+    "Name": "swing_sword_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 981,
+      "Y": 626,
+      "Width": 79,
+      "Height": 109
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_n_0003": {
+    "Name": "swing_sword_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 562,
+      "Y": 1013,
+      "Width": 79,
+      "Height": 77
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_n_0004": {
+    "Name": "swing_sword_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1548,
+      "Y": 753,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_s_0000": {
+    "Name": "swing_sword_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1021,
+      "Y": 737,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_s_0001": {
+    "Name": "swing_sword_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1669,
+      "Y": 946,
+      "Width": 77,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_s_0002": {
+    "Name": "swing_sword_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1028,
+      "Y": 998,
+      "Width": 78,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_s_0003": {
+    "Name": "swing_sword_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 770,
+      "Y": 976,
+      "Width": 79,
+      "Height": 78
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_s_0004": {
+    "Name": "swing_sword_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 226,
+      "Y": 786,
+      "Width": 91,
+      "Height": 93
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_e_0000": {
+    "Name": "throw_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 643,
+      "Y": 1068,
+      "Width": 78,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_e_0001": {
+    "Name": "throw_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 481,
+      "Y": 968,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_e_0002": {
+    "Name": "throw_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 588,
+      "Y": 925,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_e_0003": {
+    "Name": "throw_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 588,
+      "Y": 925,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_n_0000": {
+    "Name": "throw_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1063,
+      "Width": 79,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_n_0001": {
+    "Name": "throw_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1467,
+      "Y": 731,
+      "Width": 79,
+      "Height": 92
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_n_0002": {
+    "Name": "throw_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1063,
+      "Width": 79,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_n_0003": {
+    "Name": "throw_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1063,
+      "Width": 79,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_s_0000": {
+    "Name": "throw_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1183,
+      "Y": 767,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_s_0001": {
+    "Name": "throw_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1953,
+      "Y": 1016,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_s_0002": {
+    "Name": "throw_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1183,
+      "Y": 767,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_s_0003": {
+    "Name": "throw_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1183,
+      "Y": 767,
+      "Width": 79,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0000": {
+    "Name": "walking_e_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1592,
+      "Y": 466,
+      "Width": 85,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0001": {
+    "Name": "walking_e_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1416,
+      "Y": 446,
+      "Width": 86,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0002": {
+    "Name": "walking_e_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1924,
+      "Y": 384,
+      "Width": 87,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0003": {
+    "Name": "walking_e_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1730,
+      "Y": 380,
+      "Width": 87,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0004": {
+    "Name": "walking_e_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1835,
+      "Y": 293,
+      "Width": 87,
+      "Height": 91
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0005": {
+    "Name": "walking_e_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1908,
+      "Y": 474,
+      "Width": 87,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0006": {
+    "Name": "walking_e_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1819,
+      "Y": 386,
+      "Width": 87,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_e_0007": {
+    "Name": "walking_e_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1924,
+      "Y": 293,
+      "Width": 87,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0000": {
+    "Name": "walking_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 940,
+      "Y": 737,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0001": {
+    "Name": "walking_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1143,
+      "Y": 642,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0002": {
+    "Name": "walking_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1320,
+      "Y": 575,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0003": {
+    "Name": "walking_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1239,
+      "Y": 575,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0004": {
+    "Name": "walking_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1482,
+      "Y": 537,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0005": {
+    "Name": "walking_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1401,
+      "Y": 537,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0006": {
+    "Name": "walking_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1320,
+      "Y": 478,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_n_0007": {
+    "Name": "walking_n_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1239,
+      "Y": 478,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0000": {
+    "Name": "walking_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1887,
+      "Y": 826,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0001": {
+    "Name": "walking_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1806,
+      "Y": 748,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0002": {
+    "Name": "walking_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1725,
+      "Y": 663,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0003": {
+    "Name": "walking_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1644,
+      "Y": 656,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0004": {
+    "Name": "walking_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1563,
+      "Y": 656,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0005": {
+    "Name": "walking_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1482,
+      "Y": 634,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0006": {
+    "Name": "walking_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1401,
+      "Y": 634,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_s_0007": {
+    "Name": "walking_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1887,
+      "Y": 729,
+      "Width": 79,
+      "Height": 95
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "scout_medium_icon": {
+    "Name": "scout_medium_icon",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 689,
+      "Y": 899,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0000": {
+    "Name": "cast_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1060,
+      "Y": 431,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0001": {
+    "Name": "cast_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0002": {
+    "Name": "cast_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0003": {
+    "Name": "cast_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0004": {
+    "Name": "cast_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0005": {
+    "Name": "cast_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0006": {
+    "Name": "cast_w_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0007": {
+    "Name": "cast_w_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1319,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "cast_w_0008": {
+    "Name": "cast_w_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1222,
+      "Y": 381,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0000": {
+    "Name": "project_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1645,
+      "Y": 184,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0001": {
+    "Name": "project_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0002": {
+    "Name": "project_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0003": {
+    "Name": "project_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0004": {
+    "Name": "project_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0005": {
+    "Name": "project_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0006": {
+    "Name": "project_w_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0007": {
+    "Name": "project_w_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 513,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "project_w_0008": {
+    "Name": "project_w_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 705,
+      "Y": 467,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0000": {
+    "Name": "focusproject_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1645,
+      "Y": 184,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0001": {
+    "Name": "focusproject_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0002": {
+    "Name": "focusproject_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0003": {
+    "Name": "focusproject_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0004": {
+    "Name": "focusproject_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0005": {
+    "Name": "focusproject_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0006": {
+    "Name": "focusproject_w_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0007": {
+    "Name": "focusproject_w_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1744,
+      "Y": 99,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "focusproject_w_0008": {
+    "Name": "focusproject_w_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1938,
+      "Y": 2,
+      "Width": 95,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_w_0000": {
+    "Name": "idle_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 689,
+      "Y": 899,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_w_0001": {
+    "Name": "idle_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 689,
+      "Y": 899,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_w_0002": {
+    "Name": "idle_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 786,
+      "Y": 887,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "idle_w_0003": {
+    "Name": "idle_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 786,
+      "Y": 887,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0000": {
+    "Name": "is_hit_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1590,
+      "Y": 1124,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0001": {
+    "Name": "is_hit_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1851,
+      "Y": 563,
+      "Width": 81,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0002": {
+    "Name": "is_hit_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1679,
+      "Y": 472,
+      "Width": 85,
+      "Height": 85
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0003": {
+    "Name": "is_hit_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1742,
+      "Y": 293,
+      "Width": 91,
+      "Height": 85
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0004": {
+    "Name": "is_hit_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 802,
+      "Y": 536,
+      "Width": 95,
+      "Height": 85
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "is_hit_w_0005": {
+    "Name": "is_hit_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 932,
+      "Y": 501,
+      "Width": 95,
+      "Height": 85
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0000": {
+    "Name": "walking_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1592,
+      "Y": 466,
+      "Width": 85,
+      "Height": 91
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0001": {
+    "Name": "walking_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1416,
+      "Y": 446,
+      "Width": 86,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0002": {
+    "Name": "walking_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1924,
+      "Y": 384,
+      "Width": 87,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0003": {
+    "Name": "walking_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1730,
+      "Y": 380,
+      "Width": 87,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0004": {
+    "Name": "walking_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1835,
+      "Y": 293,
+      "Width": 87,
+      "Height": 91
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0005": {
+    "Name": "walking_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1908,
+      "Y": 474,
+      "Width": 87,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0006": {
+    "Name": "walking_w_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1819,
+      "Y": 386,
+      "Width": 87,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "walking_w_0007": {
+    "Name": "walking_w_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1924,
+      "Y": 293,
+      "Width": 87,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_w_0000": {
+    "Name": "shoot_pistol_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1197,
+      "Width": 77,
+      "Height": 85
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_w_0001": {
+    "Name": "shoot_pistol_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 834,
+      "Width": 79,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_pistol_w_0002": {
+    "Name": "shoot_pistol_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1748,
+      "Y": 1123,
+      "Width": 77,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_w_0000": {
+    "Name": "shoot_rifle_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 594,
+      "Y": 221,
+      "Width": 164,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_w_0001": {
+    "Name": "shoot_rifle_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 237,
+      "Y": 229,
+      "Width": 200,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_rifle_w_0002": {
+    "Name": "shoot_rifle_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 2,
+      "Width": 194,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_w_0000": {
+    "Name": "shoot_shotgun_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 229,
+      "Width": 233,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_w_0001": {
+    "Name": "shoot_shotgun_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 596,
+      "Y": 2,
+      "Width": 291,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_w_0002": {
+    "Name": "shoot_shotgun_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1022,
+      "Y": 132,
+      "Width": 101,
+      "Height": 87
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_w_0003": {
+    "Name": "shoot_shotgun_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 363,
+      "Y": 501,
+      "Width": 105,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_shotgun_w_0004": {
+    "Name": "shoot_shotgun_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 138,
+      "Y": 411,
+      "Width": 96,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0000": {
+    "Name": "swing_eblade_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1352,
+      "Y": 918,
+      "Width": 78,
+      "Height": 94
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0001": {
+    "Name": "swing_eblade_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1022,
+      "Y": 221,
+      "Width": 100,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0002": {
+    "Name": "swing_eblade_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 237,
+      "Y": 317,
+      "Width": 140,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0003": {
+    "Name": "swing_eblade_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 839,
+      "Y": 356,
+      "Width": 122,
+      "Height": 81
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0004": {
+    "Name": "swing_eblade_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 474,
+      "Y": 99,
+      "Width": 120,
+      "Height": 79
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_eblade_w_0005": {
+    "Name": "swing_eblade_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 899,
+      "Y": 588,
+      "Width": 80,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_w_0000": {
+    "Name": "swing_blade_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 1156,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_w_0001": {
+    "Name": "swing_blade_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1110,
+      "Y": 860,
+      "Width": 79,
+      "Height": 80
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_w_0002": {
+    "Name": "swing_blade_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 245,
+      "Y": 998,
+      "Width": 79,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_w_0003": {
+    "Name": "swing_blade_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 236,
+      "Y": 414,
+      "Width": 125,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_blade_w_0004": {
+    "Name": "swing_blade_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 236,
+      "Y": 414,
+      "Width": 125,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_w_0000": {
+    "Name": "swing_club_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 750,
+      "Y": 1056,
+      "Width": 78,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_w_0001": {
+    "Name": "swing_club_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 488,
+      "Y": 1092,
+      "Width": 78,
+      "Height": 83
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_w_0002": {
+    "Name": "swing_club_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 235,
+      "Y": 506,
+      "Width": 98,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_w_0003": {
+    "Name": "swing_club_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 474,
+      "Y": 180,
+      "Width": 118,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_club_w_0004": {
+    "Name": "swing_club_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 332,
+      "Y": 781,
+      "Width": 92,
+      "Height": 73
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_w_0000": {
+    "Name": "punch_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 83,
+      "Y": 1153,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_w_0001": {
+    "Name": "punch_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 917,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_w_0002": {
+    "Name": "punch_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1588,
+      "Y": 847,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_w_0003": {
+    "Name": "punch_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1014,
+      "Y": 312,
+      "Width": 109,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "punch_w_0004": {
+    "Name": "punch_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 917,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_w_0000": {
+    "Name": "throw_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 643,
+      "Y": 1068,
+      "Width": 78,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_w_0001": {
+    "Name": "throw_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 481,
+      "Y": 968,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_w_0002": {
+    "Name": "throw_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 588,
+      "Y": 925,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "throw_w_0003": {
+    "Name": "throw_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 588,
+      "Y": 925,
+      "Width": 79,
+      "Height": 86
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_w_0000": {
+    "Name": "swing_sword_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1968,
+      "Y": 729,
+      "Width": 78,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_w_0001": {
+    "Name": "swing_sword_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 682,
+      "Y": 564,
+      "Width": 94,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_w_0002": {
+    "Name": "swing_sword_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 439,
+      "Y": 277,
+      "Width": 144,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_w_0003": {
+    "Name": "swing_sword_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 585,
+      "Y": 438,
+      "Width": 118,
+      "Height": 73
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_sword_w_0004": {
+    "Name": "swing_sword_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1504,
+      "Y": 446,
+      "Width": 86,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_w_0000": {
+    "Name": "shoot_spear_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 299,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_w_0001": {
+    "Name": "shoot_spear_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "shoot_spear_w_0002": {
+    "Name": "shoot_spear_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 2,
+      "Width": 295,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_w_0000": {
+    "Name": "spear_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 238,
+      "Y": 99,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_w_0001": {
+    "Name": "spear_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 99,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_w_0002": {
+    "Name": "spear_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 596,
+      "Y": 91,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "spear_w_0003": {
+    "Name": "spear_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 889,
+      "Y": 2,
+      "Width": 234,
+      "Height": 128
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_w_0000": {
+    "Name": "swing_hammer_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 832,
+      "Y": 132,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_w_0001": {
+    "Name": "swing_hammer_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1125,
+      "Y": 90,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "swing_hammer_w_0002": {
+    "Name": "swing_hammer_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1321,
+      "Y": 2,
+      "Width": 188,
+      "Height": 95
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0000": {
+    "Name": "death_w_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1108,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0001": {
+    "Name": "death_w_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1750,
+      "Y": 939,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0002": {
+    "Name": "death_w_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1766,
+      "Y": 475,
+      "Width": 83,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0003": {
+    "Name": "death_w_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 834,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0004": {
+    "Name": "death_w_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1284,
+      "Width": 77,
+      "Height": 74
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0005": {
+    "Name": "death_w_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 923,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0006": {
+    "Name": "death_w_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 406,
+      "Width": 121,
+      "Height": 59
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0007": {
+    "Name": "death_w_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 649,
+      "Width": 125,
+      "Height": 52
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_w_0008": {
+    "Name": "death_w_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 356,
+      "Width": 125,
+      "Height": 48
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0000": {
+    "Name": "death_s_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1108,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0001": {
+    "Name": "death_s_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1750,
+      "Y": 939,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0002": {
+    "Name": "death_s_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1766,
+      "Y": 475,
+      "Width": 83,
+      "Height": 89
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0003": {
+    "Name": "death_s_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 834,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0004": {
+    "Name": "death_s_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1284,
+      "Width": 77,
+      "Height": 74
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0005": {
+    "Name": "death_s_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 923,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0006": {
+    "Name": "death_s_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 406,
+      "Width": 121,
+      "Height": 59
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0007": {
+    "Name": "death_s_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 649,
+      "Width": 125,
+      "Height": 52
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_s_0008": {
+    "Name": "death_s_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 356,
+      "Width": 125,
+      "Height": 48
+    },
+    "FlipX": true,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0000": {
+    "Name": "death_n_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1827,
+      "Y": 1108,
+      "Width": 77,
+      "Height": 88
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0001": {
+    "Name": "death_n_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1750,
+      "Y": 939,
+      "Width": 79,
+      "Height": 90
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0002": {
+    "Name": "death_n_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1766,
+      "Y": 475,
+      "Width": 83,
+      "Height": 89
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0003": {
+    "Name": "death_n_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 948,
+      "Y": 834,
+      "Width": 79,
+      "Height": 81
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0004": {
+    "Name": "death_n_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 1906,
+      "Y": 1284,
+      "Width": 77,
+      "Height": 74
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0005": {
+    "Name": "death_n_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 867,
+      "Y": 923,
+      "Width": 79,
+      "Height": 79
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0006": {
+    "Name": "death_n_0006",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 406,
+      "Width": 121,
+      "Height": 59
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0007": {
+    "Name": "death_n_0007",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 2,
+      "Y": 649,
+      "Width": 125,
+      "Height": 52
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "death_n_0008": {
+    "Name": "death_n_0008",
+    "TextureFile": "__Assets\\Characters\\Christie\\MediumArmour.png.png",
+    "TextureRect": {
+      "X": 712,
+      "Y": 356,
+      "Width": 125,
+      "Height": 48
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  }
+}

@@ -1,0 +1,114 @@
+﻿{
+  "select_christie_0000": {
+    "Name": "select_christie_0000",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 0,
+      "Y": 0,
+      "Width": 152,
+      "Height": 176
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "select_christie_0001": {
+    "Name": "select_christie_0001",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 0,
+      "Y": 0,
+      "Width": 152,
+      "Height": 176
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "select_christie_0002": {
+    "Name": "select_christie_0002",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 0,
+      "Y": 0,
+      "Width": 152,
+      "Height": 176
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "select_christie_0003": {
+    "Name": "select_christie_0003",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 153,
+      "Y": 0,
+      "Width": 152,
+      "Height": 178
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "select_christie_0004": {
+    "Name": "select_christie_0004",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 153,
+      "Y": 0,
+      "Width": 152,
+      "Height": 178
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "select_christie_0005": {
+    "Name": "select_christie_0005",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 153,
+      "Y": 0,
+      "Width": 152,
+      "Height": 178
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "christieAvatar": {
+    "Name": "christieAvatar",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 309,
+      "Y": 22,
+      "Width": 129,
+      "Height": 130
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  },
+  "victory_christie": {
+    "Name": "victory_christie",
+    "TextureFile": "__Assets\\Characters\\Christie\\CharacterData.png.png",
+    "TextureRect": {
+      "X": 441,
+      "Y": 13,
+      "Width": 157,
+      "Height": 155
+    },
+    "FlipX": false,
+    "FlipY": false,
+    "DrawOffset": "0, 0",
+    "Color": "255, 255, 255, 255"
+  }
+}

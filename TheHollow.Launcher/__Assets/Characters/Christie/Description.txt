@@ -1,0 +1,182 @@
+﻿Character {
+	Name: christie
+	DisplayName: Christie
+	Description: Christie is the ultimate warrior. Using her psychology skills to confuse and manipualte the enemy, she is unbeatable and super cool.
+	SpriteLibrary: __Assets/Characters/Christie/LightArmour.SpriteLibrary.txt
+	Race: Human
+	SaveGameTag: Christie
+	Avatar: christieAvatar
+	PlayerMonsterChoiceAdj: 10
+	EquipmentBackground: inventoryDude_Pilot
+	SelectPlayerAnimation: select_christie
+	VictoryImage: victory_scout
+	Int: Full
+	Health: 60
+	HealthPerLevel: 30
+	RegenAmount: 1
+	ExperienceFactor: .9
+	Move: 2
+	MoveMode: Legs
+	MoveSound: pl_foot_gen
+	MoveStartSound:
+	MoveEndSound: pl_foot_gen_end
+	Role: Player
+	InventoryWidth: 8
+	InventoryHeight: 6
+	LevelUpStatPoints: 3
+	LevelUpSkillPoints: 4
+	Stats: M(70), F(45), B(40), P(40)
+	ViewArc: 165
+	InnateWeapon: weapon_punch_medium
+
+	PsiFactor:
+	PsiRegenPeriod:6
+	PsiRegenAmount:3
+
+	Skill: skill_pistol(35)
+	Skill: skill_assault_weapon(55)
+	Skill: skill_rifle(50)
+	Skill: skill_heavy_weapon(45)
+	Skill: skill_melee(40)
+	Skill: skill_knife(35)
+	Skill: skill_blade(45)
+	Skill: skill_medical(10)
+	Skill: skill_biotech(25)
+	Skill: skill_computers(5)
+	Skill: skill_mechanical(20)
+	Skill: skill_foraging(10)
+	Skill: skill_traps(20)
+	Skill: skill_lockpick(10)
+	Skill: skill_decipher(5)
+	Skill: skill_telekinesis(10)
+	Skill: skill_resistance(10)
+
+	Equipment: weapon_blade
+	Equipment: weapon_auto_pistol
+	Equipment: item_pistol_rounds(40)
+	Equipment: weapon_assault_rifle
+	Equipment: weapon_grenade(1)
+	Equipment: weapon_frag_grenade(1)
+	Equipment: weapon_he_grenade(1)
+	Equipment: item_rifle_rounds(60)
+	Equipment: item_solforce_rations(4)
+	Equipment: item_med_patch(5)
+	Equipment: armor_impact
+	Equipment: item_breaching_charge(3)
+	Equipment: item_terran_medkit
+
+	ThrowAction {
+		Name: throw
+		DisplayName: Throw
+		AnimationName: throw
+		AnimationDuration: 0.5
+		ProjectileSpeed: 15
+		ProjectileAnimationSpeed: 20
+	}
+
+	Animation {
+		Name: shoot_pistol
+		FireOffsetN: -13,-23
+		FireOffsetE: 54,-16
+		FireOffsetW: -54,-16
+		FireOffsetS: 10,-12
+		Event: fire(0)
+	}
+	Animation {
+		Name: shoot_rifle
+		FireOffsetN: 13,-25
+		FireOffsetE: 42,-12
+		FireOffsetW: -42,-12
+		FireOffsetS: 0,0
+		Event: fire(0)
+	}
+	Animation {
+		Name: shoot_shotgun
+		FireOffsetN: 11,-22
+		FireOffsetE: 45,-1
+		FireOffsetW: -45,-1
+		FireOffsetS: -6,-4
+		Event: fire(0)
+	}
+
+	Appearance {
+		Name: medium_armor
+		SpriteLibrary: __Assets/Characters/Christie/MediumArmour.SpriteLibrary.txt
+
+		Animation {
+			Name: shoot_pistol
+			FireOffsetN: 21,-20
+			FireOffsetE: 25,-12
+			FireOffsetW: -25,-12
+			FireOffsetS: -14,-17
+			Event: fire(0)
+		}
+		Animation {
+			Name: shoot_rifle
+			FireOffsetN: 16,-20
+			FireOffsetE: 40,-5
+			FireOffsetW: -40,-5
+			FireOffsetS: -11,-5
+			Event: fire(0)
+		}
+		Animation {
+			Name: shoot_shotgun
+			FireOffsetN: 13,-22
+			FireOffsetE: 46,0
+			FireOffsetW: -46,0
+			FireOffsetS: 0,0
+			Event: fire(0)
+		}
+	}
+
+	Appearance {
+		Name: heavy_armor
+		SpriteLibrary: __Assets/Characters/Christie/HeavyArmour.SpriteLibrary.txt
+
+		Animation {
+			Name: shoot_pistol
+			FireOffsetN: -22,-40
+			FireOffsetE: 66,-31
+			FireOffsetW: -66,-31
+			FireOffsetS: 29,-26
+			Event: fire(0)
+		}
+		Animation {
+			Name: shoot_rifle
+			FireOffsetN: 20,-36
+			FireOffsetE: 51,-24
+			FireOffsetW: -51,-24
+			FireOffsetS: -4,-7
+			Event: fire(0)
+		}
+		Animation {
+			Name: shoot_shotgun
+			FireOffsetN: 25,-36
+			FireOffsetE: 62,-23
+			FireOffsetW: -62,-23
+			FireOffsetS: -2,-12
+			Event: fire(0)
+		}
+	}
+
+	HaloOffsetParalyzed: 0,-20
+	HaloOffsetCondition: 0,10
+	HaloOffsetPoison: 0,0
+	HaloOffsetDisease: 0,40
+	HaloOffsetBerserk: 10,20
+	HaloOffsetDrone: 10,20
+
+	SpeechTaskSuccess: speech_marine_succeedattask
+	SpeechTaskFailure: speech_marine_failattask
+	SpeechEnemyKilled: speech_marine_killenemy
+	SpeechStarving: speech_marine_starving
+	IsHitSound: speech_marine_gettinghit
+	SpeechDeath: speech_marine_death
+	SpeechPsiAttackSuccess: speech_marine_succeedpsiattack
+	SpeechPsiAttackFailure: speech_marine_failpsiattack
+	SpeechPsiUse: speech_marine_generalpsiuse
+	SpeechPsiUseFailure: speech_marine_generalpsiusefail
+	SpeechPsiNoMana: speech_marine_notenoughmana
+	SpeechPsiResist: speech_marine_resistingpsihit
+	SpeechPsiHit: speech_marine_gettingpsihit
+}
