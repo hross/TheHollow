@@ -27,10 +27,12 @@ You can see a list of the current mod features [here](https://github.com/hross/T
 
 ## How and Why
 
-It seemed like a fun project to try to create a mod for an awesome game. The secret sauce is the very cool Mono.Cecil project, which allows us to automate the inline editing of IL code (rather than having to run ildasm and manually edit IL code). Basically we decompile the original game code, figure out which classes and methods we need to override in order to inject functionality we want, and then create the hook wrappers. Finally we define some alternate data sources so we don't have to pack up XNB files and can keep things more human readable.
+It seemed like a fun project to try to create a mod for an awesome game. The secret sauce is the very cool [Mono.Cecil](http://www.mono-project.com/Cecil) project, which allows us to automate the inline editing of IL code (rather than having to run [ildasm](http://msdn.microsoft.com/en-us/library/f7dy01k1(v=vs.110).aspx) and manually edit IL code). Basically we decompile the original game code, figure out which classes and methods we need to override in order to inject functionality we want, and then create the hook wrappers. Finally we define some alternate data sources so we don't have to pack up XNB files and can keep things more human readable.
 
 ## Disclaimers
 
-This mod is not affiliated with [Kerberos Productions](http://www.kerberos-productions.com/) in any way. Use this mod at your own risk, with no warranty. It might break something that neither the mod author(s) nor Kerberos will fix for you. This mod may not work with future versions of the game.
+This mod is not affiliated with [Kerberos Productions](http://www.kerberos-productions.com/) in any way. 
+
+Use of this mod is *at your own risk* with *absolutely no warranty*. It might break something that neither the mod author(s) nor Kerberos will fix for you. This mod may not work with future versions of the game.
 
 Other than that, feel free to use the source and modify it to work as you see fit.
